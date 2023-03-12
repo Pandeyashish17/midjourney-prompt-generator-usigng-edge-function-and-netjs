@@ -1,6 +1,6 @@
 # MidPrompts (Midjourney Prompts Generator)
 
-MidPrompts is a web application that generates better images from text using OpenAI's GPT-3.5 Turbo model and Vercel Edge Function.
+MidPrompts is a web application that generates better images prompts from keywprds using OpenAI's GPT-3.5 Turbo model and Vercel Edge Function.
 
 ## Usage
 
