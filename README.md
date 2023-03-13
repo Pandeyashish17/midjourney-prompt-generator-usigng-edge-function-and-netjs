@@ -4,7 +4,7 @@ MidPrompts is a web application that generates better images prompts from keywpr
 
 ## Usage
 
-1. Go to [MidPrompts website](https://example.com) 
+1. Go to [https://midprompts.vercel.app/](https://midprompts.vercel.app/) 
 2. Go to this website [https://platform.openai.com/account/api-keys](https://platform.openai.com/account/api-keys) , signup if u don't have an account and generate secret key and just paste it on the first input field and no, i am not saving your api key, so don't worry
 3. Then, Enter your prompt in the input field.
 4. Click on "Generate" button to generate a prompt.
